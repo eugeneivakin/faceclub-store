@@ -1,0 +1,22 @@
+{%- liquid
+  case collection.handle
+    when 'serums-concentrates'
+      assign fallback_description = 'Discover professional serums and concentrates at Faceclub. Targeted treatments for every skin concern, with a free consultation to find your perfect match.'
+    when 'moisturizers'
+      assign fallback_description = 'Shop premium moisturizers at Faceclub. Hydrate and protect your skin with expertly curated formulas — book a free consultation for your ideal routine.'
+    when 'eye-lip'
+      assign fallback_description = 'Explore eye and lip care at Faceclub. Targeted treatments for the most delicate facial areas, with expert guidance and a free consultation.'
+    when 'cleanser-toner'
+      assign fallback_description = 'Shop cleansers and toners at Faceclub. Build the perfect cleansing routine with professional skincare, backed by a free consultation.'
+    when 'enzymes'
+      assign fallback_description = 'Discover enzyme skincare at Faceclub. Gentle yet effective exfoliation for a brighter, smoother complexion, with a free consultation.'
+    when 'mask'
+      assign fallback_description = 'Shop face masks at Faceclub. From deep hydration to purifying treatments — find your perfect mask with expert skincare guidance.'
+    when 'body-hands-hair'
+      assign fallback_description = 'Explore body, hands and hair care at Faceclub. Professional-quality formulas for full-body care, from head to toe.'
+    when 'neck-decollete'
+      assign fallback_description = 'Shop neck and décolleté treatments at Faceclub. Targeted care for areas that show the first signs of aging.'
+    else
+      assign fallback_description = collection.title | prepend: 'Shop ' | append: ' at Faceclub — professional skincare with expert guidance and a free consultation.'
+  endcase
+-%}

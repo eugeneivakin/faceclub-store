@@ -1,0 +1,181 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_m6rgqy": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "icon_with_text_Tr84tz": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "truck",
+            "heading_1": "Free UPS Shipping on US orders over $100",
+            "icon_2": "return",
+            "heading_2": "30-Day Returns",
+            "icon_3": "heart",
+            "heading_3": "Complimentary Samples"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "text_CUALYT": {
+          "type": "text",
+          "settings": {
+            "text": "Can't find the right certificate? <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">Write to us.</a>",
+            "text_style": "body"
+          }
+        },
+        "inventory_H38nQ3": {
+          "type": "inventory",
+          "disabled": true,
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "product_tabs_ekDJAW": {
+          "type": "product_tabs",
+          "disabled": true,
+          "settings": {
+            "tab_1_title": "BENEFITS",
+            "tab_1_content": "<h3>CORE BENEFITS</h3><p>Targets multiple visible signs of eye-area aging while delivering immediate comfort and long-term smoothing results.</p><h3>KEY BENEFITS:</h3><ul><li><strong>Visibly reduces puffiness:</strong> Helps improve the appearance of under-eye bags and swelling.</li><li><strong>Smooths expression lines:</strong> Reduces the look of wrinkles and creases caused by micro-contractions.</li><li><strong>Brightens dark circles:</strong> Promotes a more even, luminous eye contour.</li><li><strong>Firms and lifts:</strong> Supports elasticity for a smoother, more lifted appearance.</li></ul><h3>REAL RESULTS</h3><p><em>With continued use, the eye area appears smoother, firmer, and visibly more refreshed.</em></p>",
+            "tab_2_title": "HOW TO USE",
+            "tab_2_content": "<h3>APPLICATION</h3><p>Apply a small amount to the eye area morning and evening.</p><ul><li>Cleanse and tone your skin before application</li><li>Use your ring finger to gently pat the product around the orbital bone</li><li>Allow to absorb before applying other products</li></ul>",
+            "tab_3_title": "KEY INGREDIENTS",
+            "tab_3_content": "<h3>ACTIVE INGREDIENTS</h3><ul><li><strong>Hyaluronic Acid:</strong> Provides deep hydration and plumps the skin</li><li><strong>Peptides:</strong> Support collagen production and skin firmness</li><li><strong>Vitamin C:</strong> Brightens and protects against environmental damage</li></ul>",
+            "tab_4_title": "FAQ",
+            "tab_4_content": "<h3>FREQUENTLY ASKED QUESTIONS</h3><p><strong>How often should I use this product?</strong></p><p>For best results, use twice daily - morning and evening.</p><p><strong>Can I use this with other eye products?</strong></p><p>Yes, this product can be layered with other skincare products. Apply thinnest to thickest consistency.</p><p><strong>When will I see results?</strong></p><p>Most users notice improvements within 2-4 weeks of consistent use.</p>"
+          }
+        },
+        "product_reviews": {
+          "type": "product_with_reviews",
+          "disabled": true,
+          "settings": {
+            "block_title": "COMPLIMENTARY PRODUCTS",
+            "rec_product": "birthday-gift-card-1",
+            "link_text": "View product",
+            "review_1_rating": 5,
+            "review_1_author": "J.M.",
+            "review_1_text": "I'm so happy with this birthday gift card! It brought so much joy to my friend's special day. Very satisfied with my purchase and would definitely recommend it!",
+            "review_2_rating": 5,
+            "review_2_author": "Nancy Herrera",
+            "review_2_text": "This gift card made the perfect birthday present! My sister was filled with happiness when she received it. I'm very satisfied with how easy it was to give such a thoughtful gift.",
+            "review_3_rating": 5,
+            "review_3_author": "A.M.",
+            "review_3_text": "Absolutely love this birthday gift card! It's such a wonderful way to share happiness on someone's special day. Very satisfied with the quality and presentation!"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "judge_me_reviews_preview_badge_m6rgqy",
+        "price",
+        "icon_with_text_Tr84tz",
+        "variant_picker",
+        "text_CUALYT",
+        "inventory_H38nQ3",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "product_tabs_ekDJAW",
+        "product_reviews"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "mobile_thumbnails": "hide",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "YOU MAY ALSO LIKE",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "1770639919e1599857": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_ifqJhE": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_ifqJhE"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "1770639919e1599857"
+  ]
+}

@@ -1,0 +1,115 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "ss_simple_faq_hYDXqM": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_dwgbzy": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_1[\"where-can-i-buy-mbr-products\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_1[\"you-can-buy-mbr-products-directly-from-mbr-or-from-any-of-our-authorized-partners\"].answ.value }}</p>"
+          }
+        },
+        "text_Fbrph6": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_2[\"is-it-possible-to-just-order-samples\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_2[\"no-but-you-can-place-a-note-of-what-samples-you-would-like-during-your-checkout-process\"].answ.value }}</p>"
+          }
+        },
+        "text_fbmtLN": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_3[\"do-you-also-ship-outside-the-usa\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_7[\"no-we-do-sometimes-offer-promotions-special-bundles-and-cooperations-with-influencers-check-our-shop-regularly-subscribe-to-our-newsletter-and-visit-our-instagram-faceclub-com-to-keep-up-to-date-with-any-offerings\"].answ.value }}</p>"
+          }
+        },
+        "text_Yt6DNF": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_4[\"can-i-use-the-product-during-pregnancy\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_4[\"all-mbr-products-are-safe-to-be-used-during-pregnancy-for-special-questions-or-concerns-you-are-welcome-to-request-a-customized-regimen-hyperlink-setzen-the-question-function-on-the-product-page-or-write-an-e-mail-to-customerservice-example-com\"].answ.value }}</p>"
+          }
+        },
+        "text_Eq4zEw": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_6[\"what-payment-methods-are-offered\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_6[\"we-accept-all-major-credit-cards-and-paypal\"].answ.value }}</p>"
+          }
+        },
+        "text_weRa3U": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_7[\"do-you-offer-any-discounts\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_7[\"no-we-do-sometimes-offer-promotions-special-bundles-and-cooperations-with-influencers-check-our-shop-regularly-subscribe-to-our-newsletter-and-visit-our-instagram-faceclub-com-to-keep-up-to-date-with-any-offerings\"].answ.value }}</p>"
+          }
+        },
+        "text_ptfbwB": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_9[\"where-can-i-test-mbr-products\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_9[\"we-provide-samples-with-all-online-orders-and-you-can-always-request-specific-samples-when-checking-out-you-can-also-visit-any-of-our-authorized-partners-around-the-world-for-samples-facials-and-expert-advice\"].answ.value }}</p>"
+          }
+        },
+        "text_qckBV8": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_10[\"i-see-vitamin-a-in-some-products-is-that-active-retinol\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_10[\"no-the-vitamin-a-in-our-products-work-as-antioxidants-and-are-not-a-form-of-active-retinol\"].answ.value }}</p>"
+          }
+        },
+        "text_4Kcnir": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_11[\"how-do-i-use-or-apply-a-specific-product\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_11[\"if-you-have-any-questions-or-concerns-about-how-to-use-a-product-you-are-welcome-to-request-a-customized-regimen-or-reach-out-to-our-team-at-customerservice-example-com\"].answ.value }}</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_dwgbzy",
+        "text_Fbrph6",
+        "text_fbmtLN",
+        "text_Yt6DNF",
+        "text_Eq4zEw",
+        "text_weRa3U",
+        "text_ptfbwB",
+        "text_qckBV8",
+        "text_4Kcnir"
+      ],
+      "name": "SS - FAQ #1",
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#121212",
+        "hover_color": "#121212",
+        "question_color": "#121212",
+        "background_color": "#f3f3f3",
+        "answer_color": "#000000",
+        "answer_bg_color": "#ffffff",
+        "questions-font-size": 1.5
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "ss_simple_faq_hYDXqM",
+    "main"
+  ]
+}

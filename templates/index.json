@@ -1,0 +1,407 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Free Consultation",
+            "heading_size": "h0"
+          }
+        },
+        "text_kiXqWt": {
+          "type": "text",
+          "settings": {
+            "text": "Your skin deserves a little extra love.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Book Consultation",
+            "button_link_1": "shopify://pages/contact",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_kiXqWt",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Generated_Image_February_17_2026_-_12_17PM.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "bottom-left",
+        "desktop_content_alignment": "left",
+        "show_text_box": false,
+        "text_box_opacity": 100,
+        "button_background": "",
+        "button_text_color": "",
+        "color_scheme": "scheme-3",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "collection_list_CJbYPV": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_4BV8wL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serums-concentrates"
+          }
+        },
+        "featured_collection_kJVRj4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "moisturizers"
+          }
+        },
+        "featured_collection_bnDKH8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "eye-lip"
+          }
+        },
+        "featured_collection_atz6E4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cleanser-toner"
+          }
+        },
+        "featured_collection_3YBAaj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "enzymes"
+          }
+        },
+        "featured_collection_gEzmFn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mask"
+          }
+        },
+        "featured_collection_XhRgai": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-hands-hair"
+          }
+        },
+        "featured_collection_Y9VLqn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "neck-decollete"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_4BV8wL",
+        "featured_collection_kJVRj4",
+        "featured_collection_bnDKH8",
+        "featured_collection_atz6E4",
+        "featured_collection_3YBAaj",
+        "featured_collection_gEzmFn",
+        "featured_collection_XhRgai",
+        "featured_collection_Y9VLqn"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "cleanser-toner",
+        "products_to_show": 5,
+        "title": "The latest in luxury skincare",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": true,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_L8K3hy": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "serums-concentrates",
+        "products_to_show": 4,
+        "title": "Best sellers",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ss_instafeed_2_ejtFni": {
+      "type": "ss-instafeed-2",
+      "blocks": {
+        "slide_f88Cnk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/2026-02-11_16.55.53.png",
+            "url": ""
+          }
+        },
+        "slide_EK8qD8": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/2026-02-11_16.55.34.png",
+            "url": ""
+          }
+        },
+        "slide_jjHCz7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/2026-02-11_16.55.47.png",
+            "url": ""
+          }
+        },
+        "slide_dWe7xz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/2026-02-11_16.55.38.png",
+            "url": ""
+          }
+        },
+        "slide_7TKPwM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/2026-02-11_16.55.42.png",
+            "url": ""
+          }
+        },
+        "slide_gxKGmw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/2026-02-11_16.55.51.png",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_f88Cnk",
+        "slide_EK8qD8",
+        "slide_jjHCz7",
+        "slide_dWe7xz",
+        "slide_7TKPwM",
+        "slide_gxKGmw"
+      ],
+      "name": "SS - Instafeed #2",
+      "settings": {
+        "top": "",
+        "top_custom": false,
+        "top_font": "playfair_display_n4",
+        "top_size": 13,
+        "top_height": 130,
+        "top_align": "center",
+        "heading": "Join the skincare conversation",
+        "heading_custom": true,
+        "heading_font": "playfair_display_n4",
+        "heading_size": 32,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_mt": 12,
+        "subheading": "<p>@faceclub.us</p>",
+        "subheading_custom": true,
+        "subheading_font": "inter_n4",
+        "subheading_size": 16,
+        "subheading_height": 130,
+        "subheading_align": "center",
+        "subheading_mt": 12,
+        "slider_mt": 60,
+        "slider_row": "6",
+        "slider_row_mobile": "1",
+        "slider_gap": 20,
+        "slider_gap_mobile": 32,
+        "autoplay": false,
+        "autoplay_speed": 3,
+        "nav_size": 40,
+        "nav_size_mobile": 30,
+        "hide_nav": true,
+        "hide_nav_mobile": false,
+        "image_radius": 0,
+        "top_color": "#f3f3f3",
+        "heading_color": "#121212",
+        "subheading_color": "#121212",
+        "nav_btn_bg": "#ffffff",
+        "nav_btn_hover_bg": "#555555",
+        "nav_border": "#121212",
+        "nav_border_hover": "#121212",
+        "nav_icon": "#121212",
+        "nav_hover_icon": "#ffffff",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "ss_simple_faq_Bi9Efb": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_3JeWXW": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_1[\"where-can-i-buy-mbr-products\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_1[\"you-can-buy-mbr-products-directly-from-mbr-or-from-any-of-our-authorized-partners\"].answ.value }}</p>"
+          }
+        },
+        "text_VGyRML": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_2[\"is-it-possible-to-just-order-samples\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_2[\"no-but-you-can-place-a-note-of-what-samples-you-would-like-during-your-checkout-process\"].answ.value }}</p>"
+          }
+        },
+        "text_nb7nUq": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_3[\"do-you-also-ship-outside-the-usa\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_7[\"no-we-do-sometimes-offer-promotions-special-bundles-and-cooperations-with-influencers-check-our-shop-regularly-subscribe-to-our-newsletter-and-visit-our-instagram-faceclub-com-to-keep-up-to-date-with-any-offerings\"].answ.value }}</p>"
+          }
+        },
+        "text_hJj9xV": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_4[\"can-i-use-the-product-during-pregnancy\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_4[\"all-mbr-products-are-safe-to-be-used-during-pregnancy-for-special-questions-or-concerns-you-are-welcome-to-request-a-customized-regimen-hyperlink-setzen-the-question-function-on-the-product-page-or-write-an-e-mail-to-customerservice-example-com\"].answ.value }}</p>"
+          }
+        },
+        "text_XMmhAM": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_6[\"what-payment-methods-are-offered\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_6[\"we-accept-all-major-credit-cards-and-paypal\"].answ.value }}</p>"
+          }
+        },
+        "text_HTwQtT": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_7[\"do-you-offer-any-discounts\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_7[\"no-we-do-sometimes-offer-promotions-special-bundles-and-cooperations-with-influencers-check-our-shop-regularly-subscribe-to-our-newsletter-and-visit-our-instagram-faceclub-com-to-keep-up-to-date-with-any-offerings\"].answ.value }}</p>"
+          }
+        },
+        "text_gfXzAJ": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_9[\"where-can-i-test-mbr-products\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_9[\"we-provide-samples-with-all-online-orders-and-you-can-always-request-specific-samples-when-checking-out-you-can-also-visit-any-of-our-authorized-partners-around-the-world-for-samples-facials-and-expert-advice\"].answ.value }}</p>"
+          }
+        },
+        "text_QGr7FP": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_10[\"i-see-vitamin-a-in-some-products-is-that-active-retinol\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_10[\"no-the-vitamin-a-in-our-products-work-as-antioxidants-and-are-not-a-form-of-active-retinol\"].answ.value }}</p>"
+          }
+        },
+        "text_WLAGzw": {
+          "type": "text",
+          "settings": {
+            "question": "{{ metaobjects.question_11[\"how-do-i-use-or-apply-a-specific-product\"].faq.value }}",
+            "answer": "<p>{{ metaobjects.answer_11[\"if-you-have-any-questions-or-concerns-about-how-to-use-a-product-you-are-welcome-to-request-a-customized-regimen-or-reach-out-to-our-team-at-customerservice-example-com\"].answ.value }}</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_3JeWXW",
+        "text_VGyRML",
+        "text_nb7nUq",
+        "text_hJj9xV",
+        "text_XMmhAM",
+        "text_HTwQtT",
+        "text_gfXzAJ",
+        "text_QGr7FP",
+        "text_WLAGzw"
+      ],
+      "name": "SS - FAQ #1",
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#000000",
+        "hover_color": "#555555",
+        "question_color": "#000000",
+        "background_color": "#f3f3f3",
+        "answer_color": "#555555",
+        "answer_bg_color": "#ffffff",
+        "questions-font-size": 1.6
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "collection_list_CJbYPV",
+    "featured_collection",
+    "featured_collection_L8K3hy",
+    "ss_instafeed_2_ejtFni",
+    "ss_simple_faq_Bi9Efb"
+  ]
+}

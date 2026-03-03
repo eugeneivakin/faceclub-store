@@ -1,0 +1,146 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "ss_feature_1_wnVi7A": {
+      "type": "ss-feature-1",
+      "blocks": {
+        "image_EzzLEE": {
+          "type": "image",
+          "settings": {
+            "feature_title": "Free Shipping And Free Samples",
+            "feature_text": "<p>All purchases over $100</p>",
+            "feature_url": "",
+            "hide_image": false
+          }
+        },
+        "image_pQRrfN": {
+          "type": "image",
+          "settings": {
+            "feature_title": "Free Online Consultation",
+            "feature_text": "<p><a href=\"/pages/contact\" title=\"Contact\">Complementary Consultation</a></p>",
+            "feature_url": "",
+            "hide_image": false
+          }
+        },
+        "image_yr6Pti": {
+          "type": "image",
+          "settings": {
+            "feature_title": "Easy Retunrs",
+            "feature_text": "<p>Customer satisfaction #1 priority</p>",
+            "feature_url": "",
+            "hide_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_EzzLEE",
+        "image_pQRrfN",
+        "image_yr6Pti"
+      ],
+      "name": "SS - Feature #1",
+      "settings": {
+        "feature_row": 3,
+        "feature_row_mobile": 1,
+        "feature_gap": 20,
+        "feature_gap_mobile": 20,
+        "feature_padding_horizontal": 0,
+        "feature_padding_vertical": 0,
+        "feature_radius": 8,
+        "feature_border_thickness": 0,
+        "feature_shadow": false,
+        "feature_heading_custom": true,
+        "feature_heading_font": "playfair_display_n4",
+        "feature_heading_size": 14,
+        "feature_heading_size_mobile": 12,
+        "feature_heading_height": 130,
+        "feature_heading_mt": 8,
+        "feature_text_custom": true,
+        "feature_text_font": "inter_n4",
+        "feature_text_size": 12,
+        "feature_text_size_mobile": 12,
+        "feature_text_height": 130,
+        "feature_text_mt": 4,
+        "feature_icon_size": 42,
+        "feature_icon_size_mobile": 42,
+        "feature_bg": "#ffffff",
+        "feature_border_color": "#000000",
+        "feature_shadow_color": "#000000",
+        "feature_heading_color": "#000000",
+        "feature_text_color": "#000000",
+        "feature_icon_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_hhB3Gz": {
+          "type": "text",
+          "settings": {
+            "heading": "Our Policy",
+            "subtext": "<p><a href=\"/policies/privacy-policy\" target=\"_blank\" title=\"Privacy Policy\">Privacy Policy</a><br/><a href=\"/policies/refund-policy\" target=\"_blank\" title=\"Refund Policy\">Refund Policy</a><br/><a href=\"/policies/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\">Shipping Policy</a><br/><a href=\"/pages/faq\" target=\"_blank\" title=\"FAQ\">FAQ</a></p>"
+          }
+        },
+        "text_pE8Paq": {
+          "type": "text",
+          "settings": {
+            "heading": "Collections",
+            "subtext": "<p><a href=\"/collections/normal-skin\" target=\"_blank\" title=\"Normal Skin\">Normal Skin</a><br/><a href=\"/collections/combination-skin\" target=\"_blank\" title=\"Combination Skin\">Dry Skin</a><br/><a href=\"/collections/oily-skin\" target=\"_blank\" title=\"Oily Skin\">Oily Skin</a><br/><a href=\"/collections/combination-skin\" target=\"_blank\" title=\"Combination Skin\">Pigmented Skin</a><br/><a href=\"/collections/sensitive-skin\" target=\"_blank\" title=\"Sensitive Skin\">Sensitive Skin</a><br/><a href=\"/collections/combination-skin\" target=\"_blank\" title=\"Combination Skin\">Acne Scarring</a></p>"
+          }
+        },
+        "text_QFJ9QL": {
+          "type": "text",
+          "settings": {
+            "heading": "About Me",
+            "subtext": "<p>As the founder of Face Club, I specialize in hyper-customized facials that combine advanced skincare science with holistic techniques including lymphatic drainage, lifting massage and tailored product protocols using Biologique Recherche, MBR, Valmont, and IS Clinical.<br/><br/>+1(347)777-3534</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_hhB3Gz",
+        "text_pE8Paq",
+        "text_QFJ9QL"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "newsletter_enable": true,
+        "newsletter_heading": "Join Our Inner Circle",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "ss_feature_1_wnVi7A",
+    "footer"
+  ]
+}
